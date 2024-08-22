@@ -1,6 +1,6 @@
 ![PyAlgerin](capa.png)
 
-# Álgebra Linear e aplicações mediadas por python
+
 | Nome do Repositório | Autores | Descrição | Características | Grandes Áreas de Aplicação |
 |---------------------|---------|-----------|-----------------|----------------------------|
 | Algebra-Linear-com-Python | <a href="https://github.com/Alyssonmach"> Alysson Machado <a>|O projeto "Álgebra Linear com Python" apresenta 22 programas com textos em português que exploram aplicações computacionais de Álgebra Linear. Além das explicações , o projeto integra o uso da linguagem Python e de bibliotecas como Numpy e Matplotlib.|<ul>[Página](https://algebralinearufcg.github.io/)<br></br>![GitHub Repo stars](https://img.shields.io/github/stars/Alyssonmach/Algebra-Linear-com-Python?style=social) <li>Conceitos e fórmulas</li><li>Códigos com documentação</li><li>Explicações em português</li> </ul>|<ul><li>Biologia</li><li>Computação</li><li>Economia</li><li>Física</li><li>Matemática</li><li>Saúde </li></ul>|
